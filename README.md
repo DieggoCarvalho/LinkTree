@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/github/languages/count/DieggoCarvalho/LinkTree?color=%234FBA47&style=for-the-badge"/>
   <img src="https://img.shields.io/github/languages/top/dieggocarvalho/LinkTree?color=%238BC63F&style=for-the-badge"/>
 
-  <img src="https://raw.githubusercontent.com/DieggoCarvalho/LinkTree/master/git_src/linktree_desc.png">
-  <img src="https://raw.githubusercontent.com/DieggoCarvalho/LinkTree/master/git_src/linktree_full.png">
+  <img src="https://raw.githubusercontent.com/DieggoCarvalho/LinkTree/main/git_src/linktree_desc.png">
+  <img src="https://raw.githubusercontent.com/DieggoCarvalho/LinkTree/main/git_src/linktree_full.png">
 
   ---
   # ℹ️ *SOBRE*
