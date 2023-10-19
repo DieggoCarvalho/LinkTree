@@ -1,12 +1,12 @@
 <div>
   <h1><i>LinkTree</i></h1>
 
-  <img src="https://img.shields.io/github/forks/DieggoCarvalho/LinkTree?color=%234FBA47&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/DieggoCarvalho/LinkTree?color=%238BC63F&style=for-the-badge"/> 
-  <img src="https://img.shields.io/github/issues/DieggoCarvalho/LinkTree?color=%234FBA47&style=for-the-badge"/> 
-  <img src="https://img.shields.io/github/stars/DieggoCarvalho/LinkTree?color=%238BC63F&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/languages/count/DieggoCarvalho/LinkTree?color=%234FBA47&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/languages/top/dieggocarvalho/LinkTree?color=%238BC63F&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/DieggoCarvalho/LinkTree?color=4FBA47&style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/DieggoCarvalho/LinkTree?color=8BC63F&style=for-the-badge"/> 
+  <img src="https://img.shields.io/github/issues/DieggoCarvalho/LinkTree?color=4FBA47&style=for-the-badge"/> 
+  <img src="https://img.shields.io/github/stars/DieggoCarvalho/LinkTree?color=8BC63F&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/languages/count/DieggoCarvalho/LinkTree?color=4FBA47&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/languages/top/DieggoCarvalho/LinkTree?color=8BC63F&style=for-the-badge"/>
 
   <img src="https://raw.githubusercontent.com/DieggoCarvalho/LinkTree/main/git_src/linktree_desc.png">
   <img src="https://raw.githubusercontent.com/DieggoCarvalho/LinkTree/main/git_src/linktree_full.png">
